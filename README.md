@@ -1,2 +1,0 @@
-# algs-exercises
-Exersises
